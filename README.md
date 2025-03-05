@@ -1,3 +1,3 @@
 # deploy-in-public
-> [!NOTE] Link to course
+> [!NOTE]
 > [Deploy in Public Challenge](https://callie-stoscup-s-school.teachable.com/)
